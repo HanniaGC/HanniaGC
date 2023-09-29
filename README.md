@@ -18,5 +18,3 @@ Creo firmemente que la motivación es el motor de mi vida y mi trabajo. Mi viaje
 **¡Unámonos en esta Travesía Tecnológica!** 🚀
 
 ---
-
-Espero que encuentres útil este código para tu presentación en GitHub. ¡Puedes personalizarlo según tus necesidades y agregar enlaces a tus proyectos o redes sociales! ¡Buena suerte! 🌟
